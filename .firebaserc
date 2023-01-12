@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kiralamafire": {
+      "hosting": {
+        "Araba_Portalim": [
+          "kiralamafire"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kiralamafire"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "SUV",
+      "kaytarih": "1670093481191",
+      "duztarih": "1670093481191"
+    },
+    {
+      "id": 2,
+      "adi": "SEDAN",
+      "kaytarih": "1670093486120",
+      "duztarih": "1670096514214"
+    },
+    {
+      "id": 3,
+      "adi": "HatchBack",
+      "kaytarih": "1670101073372",
+      "duztarih": "1670258388638"
+    }
+  ],
+  "users": [
+    {
+      "id": 2,
+      "adsoyad": "Angela Erdoğan",
+      "mail": "ahmetgele0303@hotmail.com",
+      "admin": "0",
+      "parola": "123",
+      "kaytarih": "1668070283323",
+      "duztarih": "1673543907673"
+    },
+    {
+      "id": 3,
+      "adsoyad": "Mete Canbal",
+      "mail": "meto-toko@hotmail.com",
+      "admin": "1",
+      "parola": "1",
+      "kaytarih": "1670014624972",
+      "duztarih": "1673543850363"
+    },
+    {
+      "id": 4,
+      "adsoyad": "Kübra Tekin",
+      "mail": "can2154@hotmail.com",
+      "admin": "1",
+      "parola": "1603",
+      "kaytarih": "1670021695002",
+      "duztarih": "1673543840658"
+    },
+    {
+      "id": 5,
+      "adsoyad": "Demirhan Kaya",
+      "mail": "d3mirh4n03@hotmail.com",
+      "admin": "1",
+      "parola": "2918246516",
+      "kaytarih": "1670025111694",
+      "duztarih": "1670025111694"
+    }
+  ],
+  "cars": [
+    {
+      "id": 9,
+      "arabaadi": "Temiz Kia Rio",
+      "arabafiyati": "1.500.000",
+      "arabaresmi": "https://www.kia.com/content/dam/kwcms/tr/tr/images/faydali-bilgiler/haberler/goz-alici-kia-stonic/kia-stonic-goz-alici-ve-kendinden-emin-crossover-03.jpg",
+      "categoryId": "1",
+      "kaytarih": "1670257806392",
+      "duztarih": "1670257824090"
+    },
+    {
+      "id": 10,
+      "arabaadi": "Mercedes EQA",
+      "arabafiyati": "5.000.000",
+      "arabaresmi": "https://www.lesenjoliveuses.fr/wp-content/uploads/2021/05/IMG_0334-940x705.jpg",
+      "categoryId": "1",
+      "kaytarih": "1670257979915",
+      "duztarih": "1670258078327"
+    },
+    {
+      "id": 11,
+      "arabaadi": "BMW E9 M5",
+      "arabafiyati": "7.000.000",
+      "arabaresmi": "https://www.bimmerfest.com/attachments/215-jpg.494325/",
+      "categoryId": "2",
+      "kaytarih": "1670258196348",
+      "duztarih": "1673540845107"
+    },
+    {
+      "id": 12,
+      "arabaadi": "Mercedes Class C",
+      "arabafiyati": "10.000.000",
+      "arabaresmi": "https://www.lesenjoliveuses.fr/wp-content/uploads/2021/09/IMG_2372-940x705.jpg",
+      "categoryId": "2",
+      "kaytarih": "1670258254561",
+      "duztarih": "1670258254561"
+    },
+    {
+      "id": 13,
+      "arabaadi": "Toyota Yaris 1.5",
+      "arabafiyati": "1.000.000",
+      "arabaresmi": "https://pikoautomotores.com.ar/wp-content/uploads/2021/07/D_NQ_NP_2X_885045-MLA46848276698_072021-F-940x705.jpg",
+      "categoryId": "3",
+      "kaytarih": "1670258473107",
+      "duztarih": "1670258800865"
+    },
+    {
+      "id": 14,
+      "arabaadi": "Wolkswagen Golf ",
+      "arabafiyati": "3.000.000",
+      "arabaresmi": "https://pikoautomotores.com.ar/wp-content/uploads/2021/03/D_NQ_NP_2X_706642-MLA45128429005_032021-F-940x705.jpg",
+      "categoryId": "3",
+      "kaytarih": "1670258649357",
+      "duztarih": "1670258708815"
+    }
+  ]
+}
